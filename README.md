@@ -29,7 +29,7 @@ This project simulates the workflow of a Security Analyst performing email triag
 - VirusTotal (Domain Reputation Check)
 - Gmail Header Inspection
 - Browser Link Inspection
-- Google Docs / PDF for final report documentation
+- Canva / PDF for final report documentation
 
 ---
 
